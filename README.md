@@ -1,6 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sergey
 ==============================================================================================================================
 
+My CV (RU): <br>
+<a href= "https://perm.hh.ru/resume/b9c1029bff0d04467f0039ed1f724874514851">HeadHunter</a> <br>
+<a href= "https://cv.hexlet.io/ru/resumes/3780">Hexlet CV</a>
+
+
 Frontend Developer
 ------------------
 
